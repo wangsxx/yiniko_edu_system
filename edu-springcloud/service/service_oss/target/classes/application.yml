@@ -1,0 +1,20 @@
+server:
+  port: 8002
+
+spring:
+  profiles:
+    active: prod
+  application:
+    name: serivce-oss
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+aliyun:
+  oss:
+    file:
+      endpoint: oss-cn-beijing.aliyuncs.com   # 节点
+      keyid: LTAI4GD2J6MpH5DG1aDe6h1u  # 秘钥id
+      keysecret: qFOUdv72rK2cn9ZfkmoDf5rt4zlGTq  # 秘钥
+      bucketname: edu-wangs  # bucket名称

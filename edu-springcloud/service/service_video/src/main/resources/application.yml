@@ -1,0 +1,24 @@
+server:
+  port: 8003
+
+spring:
+  profiles:
+    active: prod
+  application:
+    name: service-video
+  servlet:
+    multipart:
+      max-file-size: 1024MB  # 单个文件默认1m
+      max-request-size: 1024MB # 默认10M
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+
+
+aliyun:
+  oss:
+    file:
+      keyid: LTAI4GD2J6MpH5DG1aDe6h1u  # 秘钥id
+      keysecret: qFOUdv72rK2cn9ZfkmoDf5rt4zlGTq  # 秘钥

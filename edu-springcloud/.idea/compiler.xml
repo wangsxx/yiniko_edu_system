@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service_video" />
+        <module name="common_utils" />
+        <module name="service_oss" />
+        <module name="service_base" />
+        <module name="service_user" />
+        <module name="service_cms" />
+        <module name="service_msm" />
+        <module name="service_edu" />
+        <module name="service_order" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="8" />
+      <module name="common_utils" target="8" />
+      <module name="edu-springcloud" target="8" />
+      <module name="service" target="8" />
+      <module name="service_base" target="8" />
+      <module name="service_cms" target="8" />
+      <module name="service_edu" target="8" />
+      <module name="service_msm" target="8" />
+      <module name="service_order" target="8" />
+      <module name="service_oss" target="8" />
+      <module name="service_user" target="8" />
+      <module name="service_video" target="8" />
+      <module name="servicebase" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="edu-springcloud" options="-parameters" />
+    </option>
+  </component>
+</project>

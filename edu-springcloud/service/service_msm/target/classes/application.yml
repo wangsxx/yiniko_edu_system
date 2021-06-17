@@ -1,0 +1,15 @@
+server:
+  port: 8005
+
+
+spring:
+  # redis配置
+  profiles:
+    active: pro
+
+  redis:
+    host: 81.69.6.106 # ip地址
+    port: 6379  # 端口
+    database: 0  # 使用第一个数据库
+    timeout: 1800000
+    password: wangs

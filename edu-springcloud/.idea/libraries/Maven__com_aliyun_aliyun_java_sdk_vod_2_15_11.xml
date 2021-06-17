@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.aliyun:aliyun-java-sdk-vod:2.15.11">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-vod/2.15.11/aliyun-java-sdk-vod-2.15.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-vod/2.15.11/aliyun-java-sdk-vod-2.15.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-vod/2.15.11/aliyun-java-sdk-vod-2.15.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
