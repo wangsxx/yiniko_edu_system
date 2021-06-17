@@ -1,5 +1,0 @@
-com\wangs\oss\OssMain.class
-com\wangs\oss\service\OssService.class
-com\wangs\oss\service\impl\OssServiceImpl.class
-com\wangs\oss\controller\OssController.class
-com\wangs\oss\util\ReadProperties.class

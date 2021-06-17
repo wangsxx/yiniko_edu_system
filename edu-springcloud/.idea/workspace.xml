@@ -4,7 +4,197 @@
     <bookmark url="file://$PROJECT_DIR$/service/service_edu/src/test/java/com/wangs/CodeGenerator.java" line="60" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="127450b8-2a45-4faf-b9da-4c5e0ef58148" name="Default Changelist" comment="" />
+    <list default="true" id="127450b8-2a45-4faf-b9da-4c5e0ef58148" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/common/common_utils/target/classes/com/wangs/commonutils/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/target/classes/com/wangs/commonutils/JwtUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/target/classes/com/wangs/commonutils/MD5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/target/classes/com/wangs/commonutils/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/target/classes/com/wangs/commonutils/ResultCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/target/common_utils-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/target/classes/com/wangs/servicebase/config/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/target/classes/com/wangs/servicebase/config/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/service_base/target/service_base-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/CmsMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/config/CorsConfiguration$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/config/CorsConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/config/MPConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/config/MyMetaObjectHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/controller/BannerAdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/controller/BannerUserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/entity/CrmBanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/mapper/CrmBannerMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/mapper/xml/CrmBannerMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/service/CrmBannerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/classes/com/wangs/educms/service/impl/CrmBannerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/service_cms-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/service_cms-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_cms/target/test-classes/CodeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/EduServiceMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/config/CorsConfiguration$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/config/CorsConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/config/MPConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/config/MyMetaObjectHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/controller/EduChapterController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/controller/EduCommentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/controller/EduCourseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/controller/EduSubjectController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/controller/EduTeacherController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/controller/EduVideoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/controller/front/EduFrontController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/controller/front/FrontCourseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/controller/front/FrontTeacherController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/EduChapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/EduComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/EduCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/EduCourseDescription.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/EduSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/EduTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/EduVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/excel/SubjectData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/subject/oneSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/subject/twoSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/vo/ChapterVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/vo/CourseInfoVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/vo/CourseQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/vo/FrontCourseQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/vo/PublishVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/vo/TeacherQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/entity/vo/VideoVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/feignClient/orderClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/feignClient/orderFeedback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/feignClient/userClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/feignClient/userFeedback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/listener/SubjectExcelListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/EduChapterMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/EduCommentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/EduCourseDescriptionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/EduCourseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/EduSubjectMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/EduTeacherMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/EduVideoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/xml/EduChapterMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/xml/EduCommentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/xml/EduCourseDescriptionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/xml/EduCourseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/xml/EduSubjectMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/xml/EduTeacherMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/mapper/xml/EduVideoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/nacosClient/VideoClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/nacosClient/VideoClientImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/EduChapterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/EduCommentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/EduCourseDescriptionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/EduCourseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/EduSubjectService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/EduTeacherService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/EduVideoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/impl/EduChapterServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/impl/EduCommentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/impl/EduCourseDescriptionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/impl/EduCourseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/impl/EduSubjectServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/impl/EduTeacherServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/classes/com/wangs/eduservice/service/impl/EduVideoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/service_edu-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_edu/target/service_edu-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/com/wangs/msm/controller/MsmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/com/wangs/msm/msmMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/com/wangs/msm/service/MsmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/com/wangs/msm/service/impl/MsmServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/target/classes/com/wangs/msm/utils/RandomUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/target/service_msm-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_msm/target/service_msm-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/OrderMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/config/CorsConfiguration$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/config/CorsConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/config/MPConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/config/MyMetaObjectHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/controller/PayLogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/entity/PayLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/mapper/OrderMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/mapper/PayLogMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/mapper/xml/OrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/mapper/xml/PayLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/service/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/service/PayLogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/service/impl/OrderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/service/impl/PayLogServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/utils/HttpClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/utils/HttpClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/classes/com/wangs/eduorder/utils/OrderNoUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/service_order-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_order/target/service_order-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/com/wangs/oss/OssMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/com/wangs/oss/controller/OssController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/com/wangs/oss/service/OssService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/com/wangs/oss/service/impl/OssServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/target/classes/com/wangs/oss/util/ReadProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/target/service_oss-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_oss/target/service_oss-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/config/CorsConfiguration$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/config/CorsConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/config/MPConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/config/MyMetaObjectHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/controller/UcenterMemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/controller/WxController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/entity/UcenterMember.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/entity/vo/RegisterVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/mapper/UcenterMemberMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/mapper/xml/UcenterMemberMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/service/UcenterMemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/service/impl/UcenterMemberServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/userMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/util/HttpClientUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/util/HttpClientUtils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/util/HttpClientUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/classes/com/wangs/user/util/WxUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/service_user-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_user/target/service_user-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/classes/com/wangs/video/VideoMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/classes/com/wangs/video/controller/VideoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/classes/com/wangs/video/service/VideoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/classes/com/wangs/video/service/impl/VideoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/classes/com/wangs/video/util/ReadProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/service_video-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/service_video-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service_video/target/test-classes/com/wangs/videoTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/service/target/" />
@@ -34,7 +224,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/service_video/src/main/java/com/wangs/video/controller/VideoController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
+            <state relative-caret-position="1161">
               <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
             </state>
           </provider>
@@ -43,7 +233,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/service_video/src/main/java/com/wangs/video/service/VideoService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
+            <state relative-caret-position="459">
               <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
             </state>
           </provider>
@@ -52,7 +242,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/service_video/src/main/java/com/wangs/video/service/impl/VideoServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
+            <state relative-caret-position="2376">
               <caret line="106" column="36" selection-start-line="106" selection-start-column="36" selection-end-line="106" selection-end-column="36" />
             </state>
           </provider>
@@ -62,7 +252,7 @@
         <entry file="file://$PROJECT_DIR$/service/service_cms/src/main/java/com/wangs/educms/CmsMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -70,8 +260,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/service/service_cms/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="20" />
+            <state relative-caret-position="189">
+              <caret line="30" column="20" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -100,6 +290,9 @@
       <find>dev</find>
       <find>resources</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -182,18 +375,20 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="480" />
     <option name="y" value="58" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,51 +396,10 @@
               <item name="edu-springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="edu-springcloud" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="edu-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edu-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edu-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edu-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edu-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edu-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edu-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edu-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edu-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edu-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edu-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edu-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service_cms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,6 +411,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/4代码/1IDEA/4Mybatis" />
@@ -438,6 +593,7 @@
       <workItem from="1623721370736" duration="1434000" />
       <workItem from="1623740523044" duration="7154000" />
       <workItem from="1623809767078" duration="6996000" />
+      <workItem from="1623900939305" duration="255000" />
     </task>
     <servers />
   </component>
@@ -474,12 +630,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262048000" />
+    <option name="totallyTimeSpent" value="262303000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.23933902" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -489,7 +645,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -502,11 +658,11 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.2426869" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.2426869" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.20202559" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.20202559" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -860,20 +1016,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_video/src/main/java/com/wangs/video/controller/VideoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service_video/src/main/java/com/wangs/video/service/VideoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-core/4.5.1/aliyun-java-sdk-core-4.5.1-sources.jar!/com/aliyuncs/DefaultAcsClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -881,9 +1023,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_video/src/main/java/com/wangs/video/controller/VideoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service_video/src/main/java/com/wangs/video/service/VideoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/service/service_video/src/main/java/com/wangs/video/service/impl/VideoServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
+        <state relative-caret-position="2376">
           <caret line="106" column="36" selection-start-line="106" selection-start-column="36" selection-end-line="106" selection-end-column="36" />
         </state>
       </provider>
@@ -891,14 +1047,14 @@
     <entry file="file://$PROJECT_DIR$/service/service_cms/src/main/java/com/wangs/educms/CmsMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/service_cms/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="20" />
+        <state relative-caret-position="189">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="20" />
         </state>
       </provider>
     </entry>

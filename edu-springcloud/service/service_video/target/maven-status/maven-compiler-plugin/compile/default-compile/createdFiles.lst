@@ -1,5 +1,0 @@
-com\wangs\video\util\ReadProperties.class
-com\wangs\video\VideoMain.class
-com\wangs\video\service\impl\VideoServiceImpl.class
-com\wangs\video\service\VideoService.class
-com\wangs\video\controller\VideoController.class
