@@ -1,0 +1,24 @@
+<html> <head> <meta charset="UTF-8"> <meta http-equiv="x-ua-compatible" content="IE=edge" > <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/> <title>Vod</title> <link rel="stylesheet" href="//g.alicdn.com/de/prismplayer/2.6.0/skins/default/aliplayer-min.css" /> <script type="text/javascript" src="//g.alicdn.com/de/prismplayer/2.6.0/aliplayer-min.js"></script> </head> <body> <div class="prism-player" id="J_prismPlayer"></div>
+<script>
+    var player = new Aliplayer({
+        id: 'J_prismPlayer',
+        vid: "d4fdb1b2d1ef4ed88285ec79946e3915", // 视频id
+        playauth: "eyJTZWN1cml0eVRva2VuIjoiQ0FJU2h3TjFxNkZ0NUIyeWZTaklyNWJ3QnZhRG1hVmd4N3F4UUVQajBYQU5SOHBLaHFMcHR6ejJJSDFFZm5sb0FPa2FzUHd6bFd0UjZmd2Vsck1xRU1NWUhoV2NNNUV1c01VSXExLzdKcExGc3QySjZyOEpqc1ZXbE1OcC8xbXBzdlhKYXNEVkVmbDJFNVhFTWlJUi8wMGU2TC8rY2lyWXBUWEhWYlNDbFo5Z2FQa09Rd0M4ZGtBb0xkeEtKd3hrMnQxNFVtWFdPYVNDUHdMU2htUEJMVXhtdldnR2wyUnp1NHV5M3ZPZDVoZlpwMXI4eE80YXhlTDBQb1AyVjgxbExacGxlc3FwM0k0U2M3YmFnaFpVNGdscjhxbHg3c3BCNVN5Vmt0eVdHVWhKL3phTElvaXQ3TnBqZmlCMGVvUUFQb3BGcC9YNmp2QWF3UExVbTliWXhncGhCOFIrWGo3RFpZYXV4N0d6ZW9XVE84MCthS3p3TmxuVXo5bUxMZU9WaVE0L1ptOEJQdzQ0RUxoSWFGMElVRXh6Rm1xQ2QvWDRvZ3lRTzE3eUdwTG9pdjltamNCSHFIeno1c2VQS2xTMVJMR1U3RDBWSUpkVWJUbHphazVNalRTNEsvTllLMUFkS0FvNFhlcVBNYXgzYlFGRHI1M3ZzVGJiWHpaYjBtcHR1UG56ZDFRSUNGZk1sRWVVR29BQkRkdXpTczRaa0s4WUJPM3dVY0RLSXVjYWZ3MlROa3V2YnMxbWdBaGdEcFZ0ZnNEZlBDWHNSU2ZJbERhOXA1UDlwV3lpd0xCNGt6eDM4a0xvY01MZVRoVVlRSHpJdEhhM1lwbjBKcHN1enhoOFFTMUJyOXBUb2x1Q0srdDdIYjJya0NiMThhdEJxSEx6dHRBTEx6UDlTeXJmUG9TYzZxM2d2bXFJMVNTUGJoVT0iLCJBdXRoSW5mbyI6IntcIkNJXCI6XCJvVkV3SWNZTktVTXo5QVRocUpCeEZzNnpWUHRqeGkvT0lWN3E1NXl5L040cmwyOG0yWEsyc3ZjYWdEUW9ZMGZlXCIsXCJDYWxsZXJcIjpcIkxYN3hBdFNjejBCWTdvNytRb2R6MytmeldoZS81UDJuQ08xTEZsdDFXOXM9XCIsXCJFeHBpcmVUaW1lXCI6XCIyMDIxLTA1LTMxVDExOjEzOjQ2WlwiLFwiTWVkaWFJZFwiOlwiZDRmZGIxYjJkMWVmNGVkODgyODVlYzc5OTQ2ZTM5MTVcIixcIlNpZ25hdHVyZVwiOlwiVVNnN1E5ZWdjeTBZYm4yY1dlOW1mQlFZc0FNPVwifSIsIlZpZGVvTWV0YSI6eyJTdGF0dXMiOiJOb3JtYWwiLCJWaWRlb0lkIjoiZDRmZGIxYjJkMWVmNGVkODgyODVlYzc5OTQ2ZTM5MTUiLCJUaXRsZSI6IjYgLSBXaGF0IElmIEkgV2FudCB0byBNb3ZlIEZhc3RlciIsIkNvdmVyVVJMIjoiaHR0cDovL291dGluLWI4YjVjODMyODMwODExZWI5MTg4MDAxNjNlMDYxMjNjLm9zcy1jbi1zaGFuZ2hhaS5hbGl5dW5jcy5jb20vZDRmZGIxYjJkMWVmNGVkODgyODVlYzc5OTQ2ZTM5MTUvc25hcHNob3RzLzUxOWQ4YzJkY2ZkNzQ2NTY4YWYyMDlkMmQxNmJmZTMzLTAwMDAxLmpwZz9FeHBpcmVzPTE2MjI0NjMxMjYmT1NTQWNjZXNzS2V5SWQ9TFRBSTNEa3h0c2JVeU5ZViZTaWduYXR1cmU9Y1lVQW1ObDh4YnpaVnNmOVNGS1NzM2VmYnFZJTNEIiwiRHVyYXRpb24iOjE2LjI3Njd9LCJBY2Nlc3NLZXlJZCI6IlNUUy5OVUVNTDd0ekFweFpCZVI1cFhLRWZpZ0JVIiwiQWNjZXNzS2V5U2VjcmV0IjoiR3FFb29zSkpwd0dCU1NCNkExNGR5N2hVUmR6czg1aDFLZzRCZDlyUEFWMjMiLCJSZWdpb24iOiJjbi1zaGFuZ2hhaSIsIkN1c3RvbWVySWQiOjEzNDUzMTA2MjY2OTcyNDJ9", // 播放凭证
+        encryptType: '1', // 如果播放加密视频，则需设置encryptType=1，非加密视频无需设置此项
+        width: '100%',
+        height: '500px',
+        // 以下可选设置
+        cover: 'http://guli.shop/photo/banner/1525939573202.jpg', // 封面
+        qualitySort: 'asc', // 清晰度排序
+
+        mediaType: 'video', // 返回音频还是视频
+        autoplay: false, // 自动播放
+        isLive: false, // 直播
+        rePlay: false, // 循环播放
+        preload: true,
+        controlBarVisibility: 'hover', // 控制条的显示方式：鼠标悬停
+        useH5Prism: true, // 播放器类型：html5
+    }, function(player) {
+        console.log('播放器创建成功')
+    })
+</script>
