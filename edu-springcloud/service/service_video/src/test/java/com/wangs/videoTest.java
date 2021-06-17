@@ -29,7 +29,7 @@ public class videoTest {
     @Test
     public void videoAdressTest() throws ClientException {
         // 创建初始化对象
-        DefaultAcsClient client = initVodClient("LTAI4GD2J6MpH5DG1aDe6h1u", "qFOUdv72rK2cn9ZfkmoDf5rt4zlGTq");
+        DefaultAcsClient client = initVodClient("XXX", "XXX");
 
         // 创建获取视频地址的request和response
         GetPlayInfoRequest request = new GetPlayInfoRequest();
@@ -54,7 +54,7 @@ public class videoTest {
     @Test
     public void videoPZTest() throws ClientException {
         // 创建初始化对象
-        DefaultAcsClient client = initVodClient("LTAI4GD2J6MpH5DG1aDe6h1u", "qFOUdv72rK2cn9ZfkmoDf5rt4zlGTq");
+        DefaultAcsClient client = initVodClient("XXX", "XXX");
 
         // 创建获取视频地址的request和response
         GetVideoPlayAuthRequest request = new GetVideoPlayAuthRequest();  // 这里的类不一样 之前的是 GetPlayInfoRequest
@@ -74,8 +74,8 @@ public class videoTest {
     // 上传视频: 本地文件上传
     @Test
     public void uploadVideo(){
-        UploadVideoRequest request = new UploadVideoRequest("LTAI4GD2J6MpH5DG1aDe6h1u",
-                "qFOUdv72rK2cn9ZfkmoDf5rt4zlGTq",
+        UploadVideoRequest request = new UploadVideoRequest("XXX",
+                "XXX",
                 "test",  // 阿里云的文件名称
                 "D:\\8JavaProject\\6 - What If I Want to Move Faster.mp4");  // 本地文件地址+名称
         /*可指定分片上传时每个分片的大小，默认为1M字节*/
