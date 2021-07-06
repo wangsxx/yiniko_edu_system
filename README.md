@@ -59,5 +59,7 @@ Vue、Nuxt、Element-UI
 + 数据库相关：mysql5.6、Redis6.0.9
 + 其他：Nginx1.19.6、nacos1.4、nodejs12.18.3
 
+## [实现效果](https://github.com/wangsxx/yiniko_edu_system/tree/master/img)
+
 
 
