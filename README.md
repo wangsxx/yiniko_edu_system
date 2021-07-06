@@ -60,6 +60,6 @@ Vue、Nuxt、Element-UI
 + 其他：Nginx1.19.6、nacos1.4、nodejs12.18.3
 
 ## [实现效果](https://github.com/wangsxx/yiniko_edu_system/tree/master/img)
-
+![首页效果](img/index.png)
 
 
